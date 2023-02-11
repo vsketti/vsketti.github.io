@@ -1,5 +1,39 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Vincenzo\´s personal space
-description: Welome!
+# Site settings
+title: Tech Lead in Robotics
+description: A portfolio site for a tech lead in robotics
+url: "https://yourusername.github.io/vsketti"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-hacker
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: Blog
+    url: /blog/
+  - title: Contact
+    url: /contact/
+
+# Social links
+social_links:
+  - title: GitHub
+    url: https://github.com/yourusername
+  - title: LinkedIn
+    url: https://linkedin.com/in/schettino
+  - title: Twitter
+    url: https://twitter.com/yourusername
+
+# Custom styles
+custom_css:
+  - "/assets/css/dark-mode.css"
+  - "/assets/css/custom.css"
+
+# Profile picture
+profile_picture: "/assets/images/me.jpg"
+
