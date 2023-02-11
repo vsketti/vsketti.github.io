@@ -35,5 +35,5 @@ custom_css:
   - "/assets/css/custom.css"
 
 # Profile picture
-profile_picture: "/assets/images/me.jpg"
+profile_picture: "/me.png"
 
