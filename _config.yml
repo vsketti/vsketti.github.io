@@ -26,13 +26,11 @@ social_links:
     url: https://github.com/yourusername
   - title: LinkedIn
     url: https://linkedin.com/in/vschettino
-  - title: Twitter
-    url: https://twitter.com/yourusername
 
 # Custom styles
 custom_css:
-  - "/assets/css/dark-mode.css"
-  - "/assets/css/custom.css"
+  - "/dark-mode.css"
+  - "/custom.css"
 
 # Profile picture
 profile_picture: "/me.png"
