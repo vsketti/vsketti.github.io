@@ -29,8 +29,25 @@ I am currently designing the next generation of [Stryker´s](https://neurosurgic
 * June 2018, I was inteeviwed by a national newspaper [il Mattino](https://m.facebook.com/ilmattino.it/posts/10160525882990471/) (Italian only)
 * Sep 2017, I started working as Software Enigneer at KUKA Medical Robotics R&D in Augsburg (DE).
 * Jul 2017, I obtained my Master in Automation and Robotics Engineering with Summa Cum Laude and commission´s honourable mention at University of Naples Fderico II.
-* Sep 2016, I joined KUKA Corporate Research in Augsburg (DE) and started working on advanced robot control alghorithms.
+* Sep 2016, I joined KUKA Corporate Research in Augsburg (DE) and started working on advanced robot control algorithms.
 * Nov 2014, I obtained my Bachelor Degree in Automation and Robotics Enigneering at University of Naples Federico II.
+
+## Gallery
+
+![Apr 2020, Boston US. Setting-up the first LBR iiwa MED used for the development of new numerical IK](MicrosoftTeams-image.png)
+*Apr 2020, Boston US. Brought the first LBR iiwa MED used for the development of new numerical IK at KUKA R&D Boston*
+
+![March 2019](IMG_2979.jpg)
+*March 2019, Augsburg DE. Presented to Prof. Oussama Khatib and Prof. Torsten Kroeger a demonstration using a KUKA cobot and inverse dynamic control I designed*
+
+![Jul 2017, Napoli IT. MT defense](discussion.jpg)
+*Jul 2017, Napoli IT. Defened my master thesis in advanced robot control.*
+
+![Jun 2017, Augsburg DE. Testing Torque-Based Operational Space Control](interation.PNG)
+*Jun 2017, Augsburg DE. Testing Torque-Based Operational Space Control.*
+
+![Nov 2016, Augsburg DE. Corporate Research open doors](Immagine.png)
+*Nov 2016, Augsburg DE. Presented my control algorithm based on Nullspace redundancy optimization at internal company event.*
 
 ## Contact
 
