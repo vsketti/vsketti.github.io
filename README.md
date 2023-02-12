@@ -16,7 +16,7 @@ In past lives, I…
 
 I am currently designing the next generation of [Stryker´s](https://neurosurgical.stryker.com/advanced-guidance-technologies/) robotic-assisted surgical procedures for spine and cranial surgeries.
 
-*[Linkedin](https://www.linkedin.com/in/vschettino)* | *[ResearchGate](https://www.researchgate.net/profile/Vincenzo-Schettino-3)* | *[GoogleScholar](https://scholar.google.com/citations?user=hO41W-kAAAAJ&hl=en)*
+*[Linkedin](https://www.linkedin.com/in/vschettino)* |  *[Resume](/VSchettino_resume.pdf)* | *[ResearchGate](https://www.researchgate.net/profile/Vincenzo-Schettino-3)* | *[GoogleScholar](https://scholar.google.com/citations?user=hO41W-kAAAAJ&hl=en)*
 
 ## Recent News
 
@@ -52,4 +52,4 @@ I am currently designing the next generation of [Stryker´s](https://neurosurgic
 ## Contact
 
 * personal <v.schettino@hotmail.it>
-* work <vincenzo.schettino@stryker.com> | Bötzinger Str. 39, 79111 Freiburg im Breisgau, DE
+* work <vincenzo.schettino@stryker.com> | Bötzinger Str. 39, 79111 Freiburg im Breisgau, DE 
