@@ -1,7 +1,9 @@
 # Site settings
 title: Vincenzo Schettino
 description: A portfolio site for a tech lead in robotics
-url: "https://yourusername.github.io/vsketti"
+url: "https://linkedin.com/in/vschettino"
+image: https://github.com/vsketti/vsketti.github.io/blob/main/me.png
+
 
 # Build settings
 markdown: kramdown
