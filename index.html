@@ -1,13 +1,49 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Personal Blog</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>My Blog</title>
+  </head>
+  <body class="light-mode">
+    <header>
+      <h1>My Blog</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+      <button id="toggle-mode-button">Toggle Mode</button>
+    </header>
+    <section>
+      <h2>Welcome to my blog</h2>
+      <p>This is my personal blog where I write about software engineering and technology.</p>
+    </section>
+    <section id="about">
+      <h2>About Me</h2>
+      <div>
+        <img src="profile-picture.jpg" alt="Profile Picture">
+        <p>I am a software engineer with many years of experience. I have a passion for technology and love to write about it.</p>
+      </div>
+      <h3>Find me on:</h3>
+      <ul>
+        <li><a href="#">Twitter</a></li>
+        <li><a href="#">LinkedIn</a></li>
+        <li><a href="#">GitHub</a></li>
+      </ul>
+    </section>
+    <script>
+      const toggleModeButton = document.querySelector("#toggle-mode-button");
+      const body = document.querySelector("body");
+
+      toggleModeButton.addEventListener("click", function () {
+        body.classList.toggle("light-mode");
+        body.classList.toggle("dark-mode");
+      });
+    </script>
   <header>
     <nav>
       <ul>
@@ -52,7 +88,6 @@
         </li>
       </ul>
     </section>
-
     <section id="projects">
       <h2>Projects</h2>
       <ul>
@@ -73,3 +108,5 @@
           </p>
         </li>
         <li>
+  </body>
+</html>
