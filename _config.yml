@@ -12,9 +12,9 @@ theme: jekyll-theme-hacker
 # Navigation
 navigation:
   - title: Home
-    url: /
-  - title: About
-    url: /about/
+    url: /aboutme.md
+  - title: News
+    url: /recentnews.md
   - title: Projects
     url: /projects/
   - title: Blog
