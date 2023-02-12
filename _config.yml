@@ -1,5 +1,5 @@
 # Site settings
-title: Tech Lead in Robotics
+title: Vincenzo Schettino
 description: A portfolio site for a tech lead in robotics
 url: "https://yourusername.github.io/vsketti"
 
@@ -22,8 +22,6 @@ navigation:
 
 # Social links
 social_links:
-  - title: GitHub
-    url: https://github.com/yourusername
   - title: LinkedIn
     url: https://linkedin.com/in/vschettino
 
