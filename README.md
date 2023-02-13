@@ -43,7 +43,7 @@ I am currently designing the next generation of [Stryker´s](https://neurosurgic
 ![Jul 2017, Napoli IT. MT defense](/images/discussion.jpg)
 *Jul 2017, Napoli IT. Defened my master thesis in advanced robot control.*
 
-![Jun 2017, Augsburg DE. Testing Torque-Based Operational Space Control](interation.PNG)
+![Jun 2017, Augsburg DE. Testing Torque-Based Operational Space Control](/images/testingInteraction.png)
 *Jun 2017, Augsburg DE. Testing Torque-Based Operational Space Control.*
 
 ![Nov 2016, Augsburg DE. Corporate Research open doors](/images/openHouse.png)
