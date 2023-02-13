@@ -1,6 +1,6 @@
 ## About me
 
-![!](/me.png)
+![!](/images/me.png)
 
 I am a highly skilled and experienced tech lead in the field of surgical robotics. I bring a wealth of experience in both robot control and software development to the table. With a proven track record of successful projects, I have consistently demonstrated my ability to drive technical innovation and deliver results.
 
