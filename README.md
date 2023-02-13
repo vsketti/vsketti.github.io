@@ -34,19 +34,19 @@ I am currently designing the next generation of [Stryker´s](https://neurosurgic
 
 ## Gallery
 
-![Apr 2020, Boston US. Setting-up the first LBR iiwa MED used for the development of new numerical IK](MicrosoftTeams-image.png)
+![Apr 2020, Boston US. Setting-up the first LBR iiwa MED used for the development of new numerical IK](/images/lbrBoston.png)
 *Apr 2020, Boston US. Brought the first LBR iiwa MED used for the development of new numerical IK at KUKA R&D Boston*
 
-![March 2019](IMG_2979.jpg)
+![March 2019](/images/oKhatib.jpg)
 *March 2019, Augsburg DE. Presented to Prof. Oussama Khatib and Prof. Torsten Kroeger a torque-based operational space control algorithm I designed with KUKA cobot*
 
-![Jul 2017, Napoli IT. MT defense](discussion.jpg)
+![Jul 2017, Napoli IT. MT defense](/images/discussion.jpg)
 *Jul 2017, Napoli IT. Defened my master thesis in advanced robot control.*
 
 ![Jun 2017, Augsburg DE. Testing Torque-Based Operational Space Control](interation.PNG)
 *Jun 2017, Augsburg DE. Testing Torque-Based Operational Space Control.*
 
-![Nov 2016, Augsburg DE. Corporate Research open doors](Immagine.png)
+![Nov 2016, Augsburg DE. Corporate Research open doors](/images/openHouse.png)
 *Nov 2016, Augsburg DE. Presented my control algorithm based on Nullspace redundancy optimization at internal company event.*
 
 ## Contact
