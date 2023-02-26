@@ -19,11 +19,13 @@ I am currently designing the next generation of [Stryker´s](https://neurosurgic
 
 ## Recent News
 
+* Jan 2022, I succesfully completed the program from UC Berkley: ["Artificial Inteligence: Business Strategies and Application"](https://em-executive.berkeley.edu/artificial-intelligence-business-strategies).
 * Jun 2021, I joined Stryker as Tech Lead Surgical Robotics.
 * Mar 2020, I won the KUKA Global Exchnage Program, moved to Boston and joined the R&D software development team of KUKA. 
 * 2019-2021, Issued and published  [5+ patents](https://worldwide.espacenet.com/patent/search?q=vincenzo%20schettino&queryLang=en%3Ade%3Afr) in the field of robot control.
 * Oct 2020, I presented my paper ["Geometrical Interpretation and Detection of Multiple Task Conflicts using a Coordinate Invariant Index](https://ieeexplore.ieee.org/document/9340690) at IROS.
 * Nov 2019, My paper was published on Mechanism and Machine Theory an Elsevier journal, ["The influence of coordinates in robotic manipulability analysis"](https://www.sciencedirect.com/science/article/pii/S0094114X19323286).
+* Oct 2019, I took a 2-days training on Modern C++1.x design with [Dr. Adrei Alexandrescu](https://www.qa-systems.it/qa-academy/dr-andrei-alexandrescu/) in Ulm, Germany.
 * Apr 2019, I was invited for a seminar in medical robotics by University of Naples Federico II and [PrismaLab](https://www.facebook.com/prismalabunina/photos/a.1782155448736760/2313643615587938/?type=3).
 * June 2018, I was interviwed by a national newspaper [il Mattino](https://m.facebook.com/ilmattino.it/posts/10160525882990471/) on my research activities.(Italian only)
 * Sep 2017, I started working as Software Enigneer at KUKA Medical Robotics R&D in Augsburg (DE).
