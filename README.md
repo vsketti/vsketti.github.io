@@ -24,10 +24,11 @@ I am currently designing the next generation of [Stryker´s](https://neurosurgic
 * Jan 2022, I successfully completed the program from UC Berkley: ["Artificial Inteligence: Business Strategies and Application"](https://em-executive.berkeley.edu/artificial-intelligence-business-strategies).
 * Oct 2022, I drove the design and implementation of a green field robotic program of Stryker which aimed to assess the  feasibility and viability of different robotic components in the spine surgery workflow
 * Jun 2021, I joined Stryker as Tech Lead Surgical Robotics working in a SCRUM team and took the lead for the architecture and design of the software integration between the Real-Time camera system and the robotic component of an important robotic spine project of Stryker
-* Mar 2020, I won the KUKA Global Exchnage Program, moved to Boston and joined the R&D software development team of KUKA. 
 * 2019-2021, Issued and published  [5+ patents](https://worldwide.espacenet.com/patent/search?q=vincenzo%20schettino&queryLang=en%3Ade%3Afr) in the field of robot control.
 * Dec 2021, I successfully tested on two customer prototypical systems my work on motion planning for high-payload and redundant serial chain manipulator for radiation therapy
-*  Oct 2018, I delivered a crucial software tool used during robot production to perform absolute accuracy calibration of a 7-DOF high payload robot used for radiation therapy
+* Oct 2020, I presented my paper on robotic motion planning and redundancy optimization at [2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](https://ieeexplore.ieee.org/abstract/document/9340690)
+* Mar 2020, I won the KUKA Global Exchnage Program, moved to Boston and joined the R&D software development team of KUKA. 
+* Oct 2018, I delivered a crucial software tool used during robot production to perform absolute accuracy calibration of a 7-DOF high payload robot used for radiation therapy
 * Nov 2019, My paper was published on Mechanism and Machine Theory an Elsevier journal, ["The influence of coordinates in robotic manipulability analysis"](https://www.sciencedirect.com/science/article/pii/S0094114X19323286).
 * Oct 2019, I took a 2-days training on Modern C++1.x design with [Dr. Adrei Alexandrescu](https://www.qa-systems.it/qa-academy/dr-andrei-alexandrescu/) in Ulm, Germany.
 * Apr 2019, I was invited to a seminar in medical robotics by the University of Naples Federico II and [PrismaLab](https://www.facebook.com/prismalabunina/photos/a.1782155448736760/2313643615587938/?type=3).
