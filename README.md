@@ -9,16 +9,18 @@ I am excited to continue growing my skills and contributing to the development o
 
 In past lives, I…
 
+* Designed, implemented and tested robot control software for the first Stryker´s robotic-assisted device for spine surgery [MAKO Robotics](https://www.stryker.com/us/en/joint-replacement/systems/Mako_SmartRobotics_Overview.html).
 * Led advanced numerical IK solver development for multi-arm surgical robot system at [KUKA R&D Medical Robotics](https://www.kuka.com/en-de/industries/health-care/kuka-medical-robotics/sunrise_os-med).
-* improved robot motion planning algorithms of high-payload and redundant kinematics used for radiation therapy applications at KUKA R&D Medical Robotics.
-* developed force and impedance control based on Nullspace optimization for manipulation tasks at [KUKA Corporate Research](https://www.kuka.com/en-us/future-production/innovation-and-research) in Germany. 
-* did my Master's thesis in Robotics Engineering supervised by [Prof. Bruno Siciliano](https://scholar.google.com/citations?user=R1eV0ekAAAAJ&hl=it) (University of Naples) in collaboration with KUKA Corporate Research in Germany with a focus on torque-based control algorithms and Nullspace redundancy optimization.
+* Improved robot motion planning algorithms of high-payload and redundant kinematics used for radiation therapy applications at KUKA R&D Medical Robotics.
+* Developed force and impedance control based on Nullspace optimization for manipulation tasks at [KUKA Corporate Research](https://www.kuka.com/en-us/future-production/innovation-and-research) in Germany. 
+* Did my Master's thesis in Robotics Engineering supervised by [Prof. Bruno Siciliano](https://scholar.google.com/citations?user=R1eV0ekAAAAJ&hl=it) (University of Naples) in collaboration with KUKA Corporate Research in Germany with a focus on torque-based control algorithms and Nullspace redundancy optimization.
 
-I am currently designing the next generation of [Stryker´s](https://neurosurgical.stryker.com/advanced-guidance-technologies/) robotic-assisted surgical procedures for spine and cranial surgeries.
+I am currently designing the next generation of [Philips´s](https://www.usa.philips.com/healthcare/e/image-guided-therapy/vascular-care) robotic-assisted endovascular procedures overseeing the software architecture of the robotic control subsystem in Cambridge MA.
 
 *[Linkedin](https://www.linkedin.com/in/vschettino)* |  *[Resume](/files/resumes/VSchettino_resume.pdf)* | *[ResearchGate](https://www.researchgate.net/profile/Vincenzo-Schettino-3)* | *[GoogleScholar](https://scholar.google.com/citations?user=hO41W-kAAAAJ&hl=en)*
 
 ## Recent News
+* Feb 2024, I moved to Boston where I worked as a Senior Software Architect in Medical Robotics at Philips for the Image Guided Therapy business unit.
 * Oct 2023, I moved to DC where I established a Robotics Clinical Innovation lab for Stryker´s neurosurgical procedure in [Leesburg, VA](https://careers.stryker.com/leesburg-virginia/).
 * Feb 2023, I led from concept design until customer validation, the development of robotic manipulation algorithms capable of avoiding collisions and enforcing virtual walls during human-robot-interaction use cases for medical applications.
 * Jan 2022, I successfully completed the program from UC Berkley: ["Artificial Inteligence: Business Strategies and Application"](https://em-executive.berkeley.edu/artificial-intelligence-business-strategies).
