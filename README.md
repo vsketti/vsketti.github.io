@@ -9,13 +9,13 @@ I am excited to continue growing my skills and contributing to the development o
 
 In past lives, I…
 
-* Designed, implemented and tested robot control software for the first Stryker´s robotic-assisted device for spine surgery [MAKO Robotics](https://www.stryker.com/us/en/joint-replacement/systems/Mako_SmartRobotics_Overview.html).
+* Designed, implemented and tested robot control software for the Stryker´s  first robotic-assisted device for spine surgery [MAKO Robotics](https://www.stryker.com/us/en/joint-replacement/systems/Mako_SmartRobotics_Overview.html).
 * Led advanced numerical IK solver development for multi-arm surgical robot system at [KUKA R&D Medical Robotics](https://www.kuka.com/en-de/industries/health-care/kuka-medical-robotics/sunrise_os-med).
 * Improved robot motion planning algorithms of high-payload and redundant kinematics used for radiation therapy applications at KUKA R&D Medical Robotics.
 * Developed force and impedance control based on Nullspace optimization for manipulation tasks at [KUKA Corporate Research](https://www.kuka.com/en-us/future-production/innovation-and-research) in Germany. 
 * Did my Master's thesis in Robotics Engineering supervised by [Prof. Bruno Siciliano](https://scholar.google.com/citations?user=R1eV0ekAAAAJ&hl=it) (University of Naples) in collaboration with KUKA Corporate Research in Germany with a focus on torque-based control algorithms and Nullspace redundancy optimization.
 
-I am currently designing the next generation of [Philips´s](https://www.usa.philips.com/healthcare/e/image-guided-therapy/vascular-care) robotic-assisted endovascular procedures overseeing the software architecture of the robotic control subsystem in Cambridge MA.
+I am currently designing the next generation of [Philips´s](https://www.usa.philips.com/healthcare/e/image-guided-therapy/vascular-care) robotic-assisted endovascular procedures, overseeing the software architecture of the robotic control subsystem in Cambridge MA.
 
 *[Linkedin](https://www.linkedin.com/in/vschettino)* |  *[Resume](/files/resumes/VSchettino_resume.pdf)* | *[ResearchGate](https://www.researchgate.net/profile/Vincenzo-Schettino-3)* | *[GoogleScholar](https://scholar.google.com/citations?user=hO41W-kAAAAJ&hl=en)*
 
