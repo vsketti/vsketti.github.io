@@ -9,7 +9,7 @@ I am excited to continue growing my skills and contributing to the development o
 
 In past lives, I…
 
-* Designed, implemented and tested robot control software for the Stryker´s  first robotic-assisted device for spine surgery [MAKO Robotics](https://www.stryker.com/us/en/joint-replacement/systems/Mako_SmartRobotics_Overview.html).
+* Designed, implemented and tested robot control software for the Stryker´s  first robotic-assisted device for spine surgery [MAKO Robotics](https://www.stryker.com/us/en/joint-replacement/systems/Mako_SmartRobotics_Overview.html) and contributed to the market launch fo the first spinal robotics system of Stryker.
 * Led advanced numerical IK solver development for multi-arm surgical robot system at [KUKA R&D Medical Robotics](https://www.kuka.com/en-de/industries/health-care/kuka-medical-robotics/sunrise_os-med).
 * Improved robot motion planning algorithms of high-payload and redundant kinematics used for radiation therapy applications at KUKA R&D Medical Robotics.
 * Developed force and impedance control based on Nullspace optimization for manipulation tasks at [KUKA Corporate Research](https://www.kuka.com/en-us/future-production/innovation-and-research) in Germany. 
@@ -20,7 +20,8 @@ I am currently designing the next generation of [Philips´s](https://www.usa.phi
 *[Linkedin](https://www.linkedin.com/in/vschettino)* |  *[Resume](/files/resumes/VSchettino_resume.pdf)* | *[ResearchGate](https://www.researchgate.net/profile/Vincenzo-Schettino-3)* | *[GoogleScholar](https://scholar.google.com/citations?user=hO41W-kAAAAJ&hl=en)*
 
 ## Recent News
-* Feb 2024, I moved to Boston where I worked as a Senior Software Architect in Medical Robotics at Philips for the Image Guided Therapy business unit.
+* Jul 2025, My paper was accepted at the 19th International Symposium on Experimental Robotics (ISER) in Santa Fe, NM, with the title: ”[Multi-Prioritized Torque-Based Control Framework with Cartesian and Joints Constraints and its Medical Robotics Application](https://www.researchgate.net/publication/393475724_Multi-Prioritized_Torque-Based_Control_Framework_with_Cartesian_and_Joints_Constraints_and_its_Medical_Robotics_Application)”.
+* Feb 2024, I moved to Boston where I worked as a Senior Software Architect in Medical Robotics at Philips for the Image Guided Therapy business unit. Owning the software architecture and design of the real-time robot control software of a multi-arm surgical system. 
 * Oct 2023, I moved to DC where I established a Robotics Clinical Innovation lab for Stryker´s neurosurgical procedure in [Leesburg, VA](https://careers.stryker.com/leesburg-virginia/).
 * Feb 2023, I led from concept design until customer validation, the development of robotic manipulation algorithms capable of avoiding collisions and enforcing virtual walls during human-robot-interaction use cases for medical applications.
 * Jan 2022, I successfully completed the program from UC Berkley: ["Artificial Inteligence: Business Strategies and Application"](https://em-executive.berkeley.edu/artificial-intelligence-business-strategies).
