@@ -1,13 +1,17 @@
 ## About me
 
 <!---<img align="left" src="/images/me.png">&nbsp;&nbsp;&nbsp;&nbsp; --->
-I am a highly skilled and experienced tech lead in the field of surgical robotics and safety critical robotics applications. I bring a wealth of experience in both robot control and software development to the table. With a proven track record of successful projects, I have consistently demonstrated my ability to drive technical innovation and deliver results.
+I am a Staff Robotics Software Engineer working at the intersection of safety-critical robot control and Physical AI, currently leading the software team building the full control stack for Apptronik's humanoid robotic platform. My background spans over 10+ years of designing real-time control software and motion algorithms for robots operating in the highest-stakes environments, from cobots to operating rooms and now on the industrial warehouse floor.
 
-Throughout my career, I have been instrumental in the design and implementation of cutting-edge surgical robots, leveraging my expertise in control algorithms, software architecture, and real-time systems. I have a deep understanding of the challenges and complexities involved in developing robotic systems for use in the operating room, and I am constantly seeking new and innovative ways to improve these systems and make them more user-friendly and effective.
+I bring deep expertise in torque-based and impedance control, redundancy optimisation, and real-time software architecture, developed across surgical robotics programs at Stryker, KUKA, and Philips. I'm now applying that same rigour to whole-body control and functional safety for humanoids, working across real-time control, NVIDIA's Thor/IGX Halos platform, and VLA-based perception to bring safety-critical engineering discipline to a domain still defining its own standards.
 
-I am excited to continue growing my skills and contributing to the development of cutting-edge technologies that have the potential to improve our lives.
+I'm excited to keep pushing on what it takes to make humanoid robots not just capable, but genuinely safe to operate around people — a problem surgical robotics forced me to take seriously long before it became a mainstream concern in humanoid robotics.
 
 In past lives, I…
+
+* Led a team of sw and control engineers architecting the end-to-end software stack, real-time whole-body control, functional safety architecture on NVIDIA's Thor/IGX Halos platform, and VLA-based perception, for Apptronik's humanoid robot deployed in industrial warehouse applications.
+
+* Owned the software architecture and design of the real-time robot control software for a multi-arm surgical system at Philips, in the Image Guided Therapy business unit.
 
 * Designed, implemented and tested robot control software for the Stryker´s  first robotic-assisted device for spine surgery [MAKO Robotics](https://www.stryker.com/us/en/joint-replacement/systems/Mako_SmartRobotics_Overview.html) and contributed to the market launch fo the first spinal robotics system of Stryker.
 * Led advanced numerical IK solver development for multi-arm surgical robot system at [KUKA R&D Medical Robotics](https://www.kuka.com/en-de/industries/health-care/kuka-medical-robotics/sunrise_os-med).
@@ -20,6 +24,7 @@ I am currently designing the next generation of [Philips´s](https://www.usa.phi
 *[Linkedin](https://www.linkedin.com/in/vschettino)* |  *[Resume](/files/resumes/VSchettino_resume.pdf)* | *[ResearchGate](https://www.researchgate.net/profile/Vincenzo-Schettino-3)* | *[GoogleScholar](https://scholar.google.com/citations?user=hO41W-kAAAAJ&hl=en)*
 
 ## Recent News
+* I was added as a member of the technical advisory group to the ISO TC 299 WG 14 Safety Requirements for industrial mobile robots.
 * Jul 2025, My paper was accepted at the 19th International Symposium on Experimental Robotics (ISER) in Santa Fe, NM, with the title: ”[Multi-Prioritized Torque-Based Control Framework with Cartesian and Joints Constraints and its Medical Robotics Application](https://www.researchgate.net/publication/393475724_Multi-Prioritized_Torque-Based_Control_Framework_with_Cartesian_and_Joints_Constraints_and_its_Medical_Robotics_Application)”.
 * Feb 2025, I moved to Boston where I worked as a Senior Software Architect in Medical Robotics at Philips for the Image Guided Therapy business unit. Owning the software architecture and design of the real-time robot control software of a multi-arm surgical system. 
 * Oct 2023, I moved to DC where I established a Robotics Clinical Innovation lab for Stryker´s neurosurgical procedure in [Leesburg, VA](https://careers.stryker.com/leesburg-virginia/).
