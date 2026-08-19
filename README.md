@@ -19,12 +19,15 @@ In past lives, I…
 * Developed force and impedance control based on Nullspace optimization for manipulation tasks at [KUKA Corporate Research](https://www.kuka.com/en-us/future-production/innovation-and-research) in Germany. 
 * Did my Master's thesis in Robotics Engineering supervised by [Prof. Bruno Siciliano](https://scholar.google.com/citations?user=R1eV0ekAAAAJ&hl=it) (University of Naples) in collaboration with KUKA Corporate Research in Germany with a focus on torque-based control algorithms and Nullspace redundancy optimization.
 
-I am currently designing the next generation of [Philips´s](https://www.usa.philips.com/healthcare/e/image-guided-therapy/vascular-care) robotic-assisted endovascular procedures, overseeing the software architecture of the robotic control subsystem in Cambridge MA.
+
+I am currently leading a robotics control software team to define the next generation of [Apptronik´s](https://apptronik.com/apollo/apollo-2) wheel-based humanoid robotic platform and define the functional safety architecture to allow the humanoids to safely operate in industrial deployments.
 
 *[Linkedin](https://www.linkedin.com/in/vschettino)* |  *[Resume](/files/resumes/VSchettino_resume.pdf)* | *[ResearchGate](https://www.researchgate.net/profile/Vincenzo-Schettino-3)* | *[GoogleScholar](https://scholar.google.com/citations?user=hO41W-kAAAAJ&hl=en)*
 
 ## Recent News
+* I was added as an Honoured Listee in [Marquis Who's Who](https://marquiswhoswho.com/) in August 2026
 * I was added as a member of the technical advisory group to the ISO TC 299 WG 14 Safety Requirements for industrial mobile robots.
+* I moved from Boston to Austin and joined [Apptronik Inc.](https://apptronik.com/news-collection/apptronik-closes-over-935-million-series-a) ($935M at $5.3B valuation) to support their mission of building robots for humans.
 * Jul 2025, My paper was accepted at the 19th International Symposium on Experimental Robotics (ISER) in Santa Fe, NM, with the title: ”[Multi-Prioritized Torque-Based Control Framework with Cartesian and Joints Constraints and its Medical Robotics Application](https://www.researchgate.net/publication/393475724_Multi-Prioritized_Torque-Based_Control_Framework_with_Cartesian_and_Joints_Constraints_and_its_Medical_Robotics_Application)”.
 * Feb 2025, I moved to Boston where I worked as a Senior Software Architect in Medical Robotics at Philips for the Image Guided Therapy business unit. Owning the software architecture and design of the real-time robot control software of a multi-arm surgical system. 
 * Oct 2023, I moved to DC where I established a Robotics Clinical Innovation lab for Stryker´s neurosurgical procedure in [Leesburg, VA](https://careers.stryker.com/leesburg-virginia/).
